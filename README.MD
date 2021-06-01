@@ -17,10 +17,30 @@ This project is licensed with MIT License, comply with the Digital Millennium Co
 
 ## Monte Carlo Integral of H1s
 <p align="center">
-    <object data="doc/monte-carlo-squared_h1s.pdf" type="application/pdf" width="700px" height="700px">
-        <embed src="doc/monte-carlo-squared_h1s.pdf">
-            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="doc/monte-carlo-squared_h1s.pdf">Download PDF</a>.</p>
-        </embed>
-    </object>
-    <img src="doc/monte-carlo-squared_h1s.pdf" width="350" height="350" style="margin: 0 1rem"/>
+    <img src="doc/monte-carlo-squared_h1s.png" width="350" height="350" style="margin: 0 1rem"/>
+</p>
+
+## Monte Carlo Integral of H2s
+<p align="center">
+    <img src="doc/monte-carlo-squared_h2s.png" width="350" height="350" style="margin: 0 1rem"/>
+</p>
+
+## Monte Carlo Integral of H2p
+<p align="center">
+    <img src="doc/monte-carlo-squared_h2p.png" width="350" height="350" style="margin: 0 1rem"/>
+</p>
+
+## Monte Carlo Integral of H3s
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3s.png" width="350" height="350" style="margin: 0 1rem"/>
+</p>
+
+## Monte Carlo Integral of H3p
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3p.png" width="350" height="350" style="margin: 0 1rem"/>
+</p>
+
+## Monte Carlo Integral of H3d
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3d.png" width="350" height="350" style="margin: 0 1rem"/>
 </p>
