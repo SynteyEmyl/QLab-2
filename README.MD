@@ -1,4 +1,4 @@
-# QLab 2
+# hy-wave-visualizer
 
 This project consists of five elements:
 - source (Source code folder)
