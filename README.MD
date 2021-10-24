@@ -1,4 +1,4 @@
-# hy-wave-visualizer
+# hydro-wave-visualizer
 
 This project consists of five elements:
 - source (Source code folder)
