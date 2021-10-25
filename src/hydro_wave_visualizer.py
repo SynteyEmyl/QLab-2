@@ -21,8 +21,3 @@ if __name__ == '__main__':
     mainframe.app.mainloop()
 
     exit(code=0x0)
-
-
-# $ source env/bin/activate
-# $ pip install matplotlib pandas openpyxl
-# $ python3 hydro_wave_visualizer.py
