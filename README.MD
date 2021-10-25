@@ -71,26 +71,44 @@ need them again, these will be loaded from local.
 
 ****
 
-## Monte Carlo Integral of H1s | H2s
-<p style="display: flex">
-    <img src="doc/monte-carlo-squared_h1s.png" width="40%" style="margin: 0 auto"/>
-    <img src="doc/monte-carlo-squared_h2s.png" width="40%" style="margin: 0 auto"/>
+## Monte Carlo Integral of H1s
+<p align="center">
+    <img src="doc/monte-carlo-squared_h1s.png" width="50%" style="margin: 0 1rem"/>
 </p>
 
 ****
 
-## Monte Carlo Integral of H2p | H3s
-<p style="display: flex">
-    <img src="doc/monte-carlo-squared_h2p.png" width="40%" style="margin: 0 auto"/>
-    <img src="doc/monte-carlo-squared_h3s.png" width="40%" style="margin: 0 auto"/>
+## Monte Carlo Integral of H2s
+<p align="center">
+    <img src="doc/monte-carlo-squared_h2s.png" width="50%" style="margin: 0 1rem"/>
 </p>
 
 ****
 
-## Monte Carlo Integral of H3p | H3d
-<p style="display: flex">
-    <img src="doc/monte-carlo-squared_h3p.png" width="40%" style="margin: 0 auto"/>
-    <img src="doc/monte-carlo-squared_h3d.png" width="40%" style="margin: 0 auto"/>
+## Monte Carlo Integral of H2p
+<p align="center">
+    <img src="doc/monte-carlo-squared_h2p.png" width="50%" style="margin: 0 1rem"/>
+</p>
+
+****
+
+## Monte Carlo Integral of H3s
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3s.png" width="50%" style="margin: 0 1rem"/>
+</p>
+
+****
+
+## Monte Carlo Integral of H3p
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3p.png" width="50%" style="margin: 0 1rem"/>
+</p>
+
+****
+
+## Monte Carlo Integral of H3d
+<p align="center">
+    <img src="doc/monte-carlo-squared_h3d.png" width="50%" style="margin: 0 1rem"/>
 </p>
 
 ****
